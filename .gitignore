@@ -1,0 +1,11 @@
+*.zip
+**/output/*
+**/model/*
+**/models/*
+**/tmp/*
+**/res/*
+**/results/*
+**/data/*
+!.git
+**/.git
+!.gitignore

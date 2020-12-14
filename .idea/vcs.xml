@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code3/ltp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code4/LatticeLSTM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code4/TENER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code4/oldLatticeLSTM/LatticeLSTM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oldLatticeLSTM/LatticeLSTM" vcs="Git" />
+  </component>
+</project>
